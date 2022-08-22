@@ -1,0 +1,3 @@
+# armstrongSayiBulma
+
+www.patika.dev
